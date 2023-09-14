@@ -7,7 +7,10 @@ Main activities:
 2. Executed data profiling and data quality analysis
 3. Higlighted the most important (and worrying) insights about alcohol consumption among countries, also with a deep dive on Italy trend. Results shown by using Microsoft Power BI dashoboards.
 
-(Personal project developed during my attendance at the Master in Business Intelligence & Big Data Analytics @ Milano-Biccocca University)
+Reference file: **"WAC_Analysis_Lorenzini.pdf"**
+
+Project developed during my attendance at the Master in Business Intelligence & Big Data Analytics @ Milano-Biccocca University.
+
 
 ## MIT License
 
