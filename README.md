@@ -2,10 +2,12 @@
 ## World Alcohol Consumption (2010-2019) - Project
 
 Personal project focusing on the analysis of World alcohol consumption trend in the last decade (2010-2019).
+
+
 Main activities:
 1. Collected data from World Health Organization and FAO (180 countries)
 2. Executed data profiling and data quality analysis
-3. Higlighted the most important (and worrying) insights about alcohol consumption among countries, also with a deep dive on Italy trend. Results shown by using Microsoft Power BI dashoboards.
+3. Highlighted the most important (and worrying) insights about alcohol consumption among countries, also with a deep dive on Italy trend. Results shown by using Microsoft Power BI dashoboards.
 
 Reference file: **"WAC_Analysis_Lorenzini.pdf"**
 
